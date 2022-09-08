@@ -6,7 +6,7 @@ I'm a Web Developer. And I'm studying and practing day after day!
 #### Current Stack
 - ⚡ Main language: `JavaScript`;
 - 📡 Backend: `Node.js`;
-- 🎉 Frontend: `HTML5`, `CSS3`, `JavaScript`;
+- 🎉 Frontend: `HTML5`, `CSS3`, `JavaScript`, `ReactJs`;
 - 🎨 Layout desing: `Figma`;
 - 📤 Version code control: `Git & Github`;
 - 🔨 Tool: `Visual Studio Code`;
